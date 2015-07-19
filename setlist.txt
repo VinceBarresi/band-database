@@ -1,0 +1,6 @@
+001	0000	Nocturne	MuddyCup
+002	3333	iLa	MuddyCup
+003	1910	YungStat	MuddyCup
+004	9000	Nocturne	MuddyCup
+005	9333	iLa	MuddyCup
+006	9817	Shof	MSG

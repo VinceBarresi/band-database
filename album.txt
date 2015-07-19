@@ -1,0 +1,35 @@
+0000001	Whomp Stomping	Dinosaur WarLordz	First Album	00000000000001	Dino Wamp	Rock	
+0000002	Whomp Stomping	Dinosaur WarLordz	First Album	00000000000002	Leg Opener	Rock	
+0000003	Whomp Stomping	Dinosaur WarLordz	First Album	00000000000003	Wing Wizzards	Rock
+0000004	Whomp Stomping	Dinosaur WarLordz	FirstAlbum	00000000000004	Apes	Rock
+0000005	Whomp Stomping	Dinosaur WarLordz	First Album	00000000000005	Chilled Out Chimp	Rock	
+0000006	Big Bang	Dinosaur WarLordz	Second Album	00000000000006	Quad Footz	Rock	
+0000007	Big Bang	Dinosaur WarLordz	Second Album	00000000000007	Raging Boogy	Rock	
+0000008	Unreleased	iLa	Unreleased Album	00000000000008	Fire Flame	Rap	
+0000009	Unreleased	iLa	Unreleased Album	00000000000009	The Last Hope	Rap	
+0000010	Unreleased	iLa	Unreleased Album	00000000000010	Radio Freestyle	Rap	
+0000011	Unreleased	iLa	Unreleased Album	00000000000011	Good Girl	Rap	
+0000012	Unreleased	iLa	Unreleased Album	00000000000012	6 Foot 7 Foot	Rap	
+0000013	Unreleased	Nocturne	Unreleased Album	00000000000013	Nocturnes Advocate	Rap	
+0000014	Unreleased	Nocturne	Unreleased Album	00000000000014	Mirage Rap	
+0000015	Unreleased	Nocturne	Unreleased Album	00000000000015	Ventriloquist	Rap	
+0000016	Unreleased	Nocturne	Unreleased Album	00000000000016	Guide Me	Rap
+0000017	Underground One	Yung Stat	Underground Album	00000000000017	I Got Da Juice	Rap
+0000018	Unreleased	Yung Stat	Unreleased Album	00000000000018	Yea Yea	Rap
+0000019	Underground One	SI Finest	Underground Album	00000000000019	Move On	Rap
+0000020	I Feel Good	SI Finest	Underground Album	00000000000020	I Feel Good	Rap
+0000021	The Band	The Band	Self Titled	00000000000021	The Band	Blues
+0000022	The Band	The Band	Self Titled	00000000000022	Jazzaphone	Blues
+0000023	Unreleased	The Misters	Great Album	00000000000024	LaP	Rock
+0000024	Rock People	The Misters	Great Album	00000000000025	Piazza	Rock	
+0000025	Rock People	Hello Hello	First Album	00000000000026	Johnny	Rock
+0000026	Rock People	Hello Hello	First Album	00000000000027	Collusion	Rock
+0000027	Rock People	Hello Hello	First Album	00000000000028	Inside Me	Rock
+0000028	Rock People	Hello Hello	First Album	00000000000029	Say No More	Rock
+0000029	No Hope	ThisIsIt	Metal Mania	00000000000030	Evil Dead	Metal
+0000030	Shout Musick	ThisIsIt	Metal Mania	00000000000031	Entry Level	Metal
+0000031	Hell Fire	This Is It	Metal Mania	00000000000032	Walk In Fire	Metal
+0000032	No Mercy	Thi sIs It	Metal Mania	00000000000033	Rain In Blood	Metal
+0000033	Revolutionary Vol1	The Five	Mixtape	00000000000034	Out Da Hood	Rap
+0000034	Jazzical	Shof	Jazz Album	00000000000035	LateNight	Jazz
+0000035	Jazzical Two	Shof	JazzA lbulm	00000000000037	Food	Jazz

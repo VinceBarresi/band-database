@@ -1,0 +1,31 @@
+123456789	mic	123456789	vocals	audio technica
+987654321	drums	123456789	percussion	haymen
+000000000	bass	987654321	string	fender
+111111111	turntables 	222222222	electronic	audio technica
+222222222	guitar	987654321	string	gibson
+444444444	mic	123456789	vocals	audio technica
+555555555	mic	222222222	vocals	samson
+666666666	mic	333333333	vocals	avid
+777777777	mic	444444444	vocals	blue microphones
+888888888	drums	987654321	percussion	roland
+999999999	drums	333333333	percussion	sabian
+101010101	drums	555555555	percussion	sennheiser
+099010101	drums	555555555	percussion	sure
+999999111	bass	111111111	string	ibanez
+222221111	bass	555555555	string	harmony
+999991133	bass	666666666	string	jackson
+121201012	guitar	111111111	string	hamer
+183812121	guitar	777777777	string	parker
+212919211	guitar	888888888	string	novax
+291291211	turntables	000000000	electronic	head-fi
+838838112	turntables	444444444	electronic	artemis
+863517492	turntables	123456789	electronic	brinkman
+000918212	trumpet	987654321	brass	beck
+871246124	trumpet	444444444	brass	haagston
+193810000	trumpet	123456789	brass	caliet
+333131212	trumpet	888888888	brass	getzen
+717271721	trumpet	777777777	brass	freebell
+182121310	trumpet	987654321	brass	calicchio
+099000009	saxaphone	000000000	brass	yamaha
+120012919	saxaphone	666666666	brass	jupiter
+912129138	saxaphone	777777777	brass	conn
